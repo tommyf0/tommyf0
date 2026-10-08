@@ -13,7 +13,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=tommyf0&label=Vues%20du%20profil&color=1f6feb&style=for-the-badge" alt="Vues du profil"/>
 <img src="https://img.shields.io/github/followers/tommyf0?label=Followers&style=for-the-badge&color=0d1117&labelColor=30363d&logo=github&logoColor=58a6ff" alt="Followers"/>
-<a href="https://www.linkedin.com/in/VOTRE_LIEN_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mong-tommy-fanorena-evariste/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:tommy.fanorena@outlook.fr"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
 
 </div>
